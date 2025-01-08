@@ -5,7 +5,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/ax.png",
-        "name": "جزر الاند"
+        "name": "جزر آلاند"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/al.png",
@@ -17,7 +17,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/as.png",
-        "name": "ساموا الامريكية"
+        "name": "ساموا الأمريكية"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/ad.png",
@@ -28,12 +28,16 @@
         "name": "انجوليا"
     },
     {
+        "img": "https://flagpedia.net/data/flags/w702/ai.png",
+        "name": "انغواليا"
+    },
+    {
         "img": "https://flagpedia.net/data/flags/w702/aq.png",
         "name": "انتركتيكا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/ag.png",
-        "name": "انتيغوا وبربودا"
+        "name": "أنتيغوا وبربودا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/ar.png",
@@ -121,7 +125,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/io.png",
-        "name": "اقليم المحيط البريطاني الهندي"
+        "name": "إقليم المحيط البريطاني الهندي"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/bn.png",
@@ -149,7 +153,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/ca.png",
-        "name": "كندا"
+        "name": "كانادا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/cv.png",
@@ -181,7 +185,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/cx.png",
-        "name": "جزيرة الكريسماس"
+        "name": "جزيره الكريسماس"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/co.png",
@@ -233,7 +237,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/dk.png",
-        "name": "الدانمارك"
+        "name": "دينيمارك"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/dj.png",
@@ -425,11 +429,11 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/im.png",
-        "name": "جزيرة ايل اوف مان"
+        "name": "جزيرة آيل أوف مان"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/it.png",
-        "name": "ايطاليا"
+        "name": "اطاليا"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/jm.png",
@@ -461,11 +465,11 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/kp.png",
-        "name": "كوريا الشمالية"
+        "name": "كوريا الشماليه"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/kr.png",
-        "name": "كوريا الجنوبية"
+        "name": "كوريا الجنوبيه"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/xk.png",
@@ -585,7 +589,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/me.png",
-        "name": "الجبل الاسود"
+        "name": "الجبل الأسود"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/ms.png",
@@ -653,7 +657,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/gb-nir.png",
-        "name": "ايرلندا الشمالية"
+        "name": "إيرلندا الشمالية"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/mp.png",
@@ -670,6 +674,10 @@
     {
         "img": "https://flagpedia.net/data/flags/w702/pk.png",
         "name": "باكستان"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/pw.png",
+        "name": "Palau"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/ps.png",
@@ -737,7 +745,7 @@
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/sh.png",
-        "name": "سانت هيلانة واسنشن وتريستان دا كونها"
+        "name": "سانت هيلانة وأسنشن وتريستان دا كونها"
     },
     {
         "img": "https://flagpedia.net/data/flags/w702/kn.png",
@@ -762,4 +770,241 @@
     {
         "img": "https://flagpedia.net/data/flags/w702/ws.png",
         "name": "ساموا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sm.png",
+        "name": "سان مارينو"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/st.png",
+        "name": "ساو تومي وبرينسيبي"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sa.png",
+        "name": "السعوديه"
+    },
+    {
+      "img":"https://flagpedia.net/data/flags/w702/gbsct.png",
+        "name": "سكوتلاندا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sn.png",
+        "name": "سنغال"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/rs.png",
+        "name": "سيبريا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sc.png",
+        "name": "سيشيل"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sl.png",
+        "name": "سيرا ليون"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sg.png",
+        "name": "سغفورا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sx.png",
+        "name": "سينت مارتن"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sk.png",
+        "name": "سولوفاكيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/si.png",
+        "name": "سولوفانيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sb.png",
+        "name": "جزر سليمان"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/so.png",
+        "name": "سومال"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/za.png",
+        "name": "جنوب افرقيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gs.png",
+        "name": "جورجيا الجنوبية"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ss.png",
+        "name": "جنوب السودان"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/es.png",
+        "name": "اسبانيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/lk.png",
+        "name": "سيرلانكا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sd.png",
+        "name": "السودان"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sr.png",
+        "name": "سورينام"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sj.png",
+        "name": "سفالبارد وجان ماين"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/se.png",
+        "name": "السويد"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ch.png",
+        "name": "سويسرا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/sy.png",
+        "name": "سوريا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tw.png",
+        "name": "تايوان"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tj.png",
+        "name": "تاجيكستان"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tz.png",
+        "name": "تانزانيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/th.png",
+        "name": "تيلاند"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tl.png",
+        "name": "تيمور الشرقية"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tg.png",
+        "name": "توجو"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tk.png",
+        "name": "توكيلاو"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/to.png",
+        "name": "تونغا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tt.png",
+        "name": "ترينداد و توباغو"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tn.png",
+        "name": "تونس"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tr.png",
+        "name": "تركيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tm.png",
+        "name": "تركمانستان"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tc.png",
+        "name": "جزر تركس وكايكوس"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/tv.png",
+        "name": "توفالو"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ug.png",
+        "name": "أوغندا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ua.png",
+        "name": "اوكرانيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ae.png",
+        "name": "الامارات"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/gb.png",
+        "name": "المملكة المتحدة"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/us.png",
+        "name": "امريكا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/um.png",
+        "name": "جزر الولايات المتحدة البعيدة الصغرى"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/uy.png",
+        "name": "اوروجواي"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/uz.png",
+        "name": "أوزبكستان"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/vu.png",
+        "name": "فانواتو"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/va.png",
+        "name": "الفاتيكان"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ve.png",
+        "name": "فنزويلا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/vn.png",
+        "name": "فيتنام"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/vg.png",
+        "name": "جزر فيرجن البريطانية"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/vi.png",
+        "name": "جزر فيرجن الأمريكية"
+    },
+    {   
+      "img":"https://flagpedia.net/data/flags/w702/gbwls.png",
+       "name": "والس"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/wf.png",
+        "name": "واليس وفوتونا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/eh.png",
+        "name": "الصحراء الغربية"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/ye.png",
+        "name": "يمن"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/zm.png",
+        "name": "زامبيا"
+    },
+    {
+        "img": "https://flagpedia.net/data/flags/w702/zw.png",
+        "name": "زمبابواي"
     }
+        ]
